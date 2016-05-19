@@ -86,13 +86,13 @@ input[type="submit"] {
 	color: #FFFFFF; 
 	float: right;
 	margin-top: 20px;
-	/*-webkit-border-radius: 5px; 
-    -moz-border-radius: 5px; */
+	-webkit-appearance: none;
 }
 
 input[type="submit"]:hover{
 	background: #576b88;
 	color: #E5E5E5;
+	-webkit-appearance: none;
 }
 
 
